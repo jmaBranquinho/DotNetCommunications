@@ -12,7 +12,8 @@ graphQL: client-server communication
 To test open the playground (if unchanged it is set to: http://localhost:3000/ui/playground). Check the schema and type the query into the playground.
 Help: https://graphql.org/learn/queries/
 Example:
-//search in the context for an actor contaiting the name "". Since I'm using Bogus no real search is being made. Returns the fullname and email of the actor found
+
+    //search in the context for an actor contaiting the name "". Since I'm using Bogus no real search is being made. Returns the fullname and email of the actor found
 
 {
 
